@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "job": "a",
+      "deadline": 5,
+      "profit": 200,
+      "win_count":0,
+      "relative_weight":1
+    },
+    {
+      "job": "b",
+      "deadline": 3,
+      "profit": 180,
+      "win_count":0,
+      "relative_weight":1
+    },
+    {
+      "job": "c",
+      "deadline": 3,
+      "profit": 190,
+      "win_count":0,
+      "relative_weight":1
+    },
+    {
+      "job": "d",
+      "deadline": 2,
+      "profit": 300,
+      "win_count":0,
+      "relative_weight":1
+    },
+    {
+      "job": "e",
+      "deadline": 4,
+      "profit": 120,
+      "win_count":0,
+      "relative_weight":1
+    },
+    {
+      "job": "e",
+      "deadline": 2,
+      "profit": 100,
+      "win_count":0,
+      "relative_weight":1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "jobs": [
+    {
+        "job": "a",
+        "deadline": 5,
+        "profit": 200,
+        "win_count":0,
+        "relative_weight":1
+    }
+]
+}
